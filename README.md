@@ -1,4 +1,8 @@
 # CreditCardApproval
-A machine learning model to predict if a credit card application will get approved or not.
+In this project, I’ll be using Credit Card Approval Dataset from UCI Machine Learning Repository.
+
+Dataset is available in this repository.
+
+I have used Logistic Regression Model to train and test the Credit Card Approval dataset.
 
 
